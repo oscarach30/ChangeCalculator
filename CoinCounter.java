@@ -1,14 +1,11 @@
 import java.util.Scanner;
 /* Oscar Chavez
- *  Lab 3
- *  Professor Juden
  *  March 17th, 2022
- *  Math 130
  */
 
 
 
-public class Lab3Chavez_Oscar 
+public class CoinCounter
 {
 
 	public static void main(String[] args) 
